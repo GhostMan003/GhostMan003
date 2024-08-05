@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 👋 Hi there! I'm a passionate Java developer with a knack for crafting clean and efficient code. Currently pursuing my 3rd year in B.Tech CSE, I'm deeply immersed in the world of software development.
 
-I recently completed a Java development project that showcased my skills in building robust and scalable applications. With a keen eye for detail and a drive for excellence, I'm always eager to tackle new challenges and learn from every coding experience.
+I have completed a Java development project that showcased my skills in building robust and scalable applications. With a keen eye for detail and a drive for excellence, I'm always eager to tackle new challenges and learn from every coding experience.
 
 Let's connect and collaborate on exciting projects! 🚀 #JavaDeveloper #BtechCSE #CodingEnthusiast  
   
